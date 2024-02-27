@@ -1,0 +1,18 @@
+{
+  "name": "deo-big-factorial",
+  "version": "1.0.0",
+  "description": "my package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "deo-vector-math": "^1.0.0",
+    "deotheme": "^1.0.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xuandieu1210",
+  "license": "ISC"
+}
