@@ -10,6 +10,10 @@
     "deo-vector-math": "^1.0.0",
     "deotheme": "^1.0.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuandieu1210/deo-big-factorial.git"
+  },
   "scripts": {
     "test": "test"
   },
