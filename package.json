@@ -1,6 +1,6 @@
 {
   "name": "deo-big-factorial",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "my package",
   "main": "index.js",
   "directories": {
