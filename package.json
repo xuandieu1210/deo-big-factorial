@@ -12,11 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xuandieu1210/deo-big-factorial.git"
+    "url": "https://github.com/xuandieu1210/deo-big-factorial"
   },
   "scripts": {
     "test": "test"
   },
   "author": "xuandieu1210",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuandieu1210/deo-big-factorial/issues"
+  },
+  "homepage": "https://github.com/xuandieu1210/deo-big-factorial#readme"
 }
